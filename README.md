@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nandan 👋</h1>
-<h3 align="center">Software Engineer | Fullstack Developer</h3>
+<h3 align="center">CS Student | Fullstack Developer</h3>
 
 <p align="center">
   Passionate about creating seamless user experiences and solving challenging problems.
